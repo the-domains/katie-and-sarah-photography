@@ -1,0 +1,28 @@
+name: 'Katie & Sarah Photography'
+favicon: null
+layout_spectrum: 0.17655364563688636
+typography_spectrum: 0.17203906853683293
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7059885195922107
+  lightness: 0.837765381205827
+  saturation: 0.8861490131821483
+  rhythmicContrast: 0.3151377213653177
+purpose: []
